@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>shopping</title>
+</head>
+<body>
+<script>
+          
+          
+          
+         var cost; 
+         var productsCost;
+        
+ function shop() 
+ {
+       productsCost=[];
+       for(var i=1;i>=1;i++)
+       {
+       
+         cost=(prompt(`Enter the cost of the products`));
+
+            if (cost=="end") 
+            {
+               alert(productsCost);
+               break;
+            }
+               productsCost.push(cost);
+        }
+            var total=0;
+              for(i in productsCost)
+              {
+                (total+=parseInt(productsCost[i]));
+                    
+              }   alert(total);
+                 if(total>=2000 && productsCost.length>=5 )
+                {
+                  alert(`you got 20% discount`);
+                   var discount=(total)*20/100;
+                   
+                   alert( `your bill :`+ (total-discount));
+                 }
+                   else if(total>=2000 && productsCost.length<5 )
+                   {
+                   alert (`you got 10% discount`);
+                     var discount=(total)*10/100;
+                      alert( `your bill :`+ (total-discount));
+                   }
+                   
+                  else 
+                  {
+                  alert  (`no discount`);
+                     
+                      alert( `your bill : `+ total);
+                   }
+                    
+   }
+        
+ 
+ 
+   shop();
+   
+</script>
+</body>
+</html>

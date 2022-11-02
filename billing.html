@@ -1,0 +1,78 @@
+
+<!DOCTYPE html>
+<htmll>
+<head>
+</head>
+<body>
+
+<script>
+            var cart=[];
+            var total=0;
+               var things=[
+               {productName:"phone",price:30000},
+               {productName:"dress",price:4000},
+               {productName:"ac",price:25000},
+               {productName:"cooler",price:20000},
+               {productName:"fridge",price:27000},
+               {productName:"macbook",price:80000},
+                 {productName:"earpodes",price:3000},
+                 {productName:"iphone",price:100000},
+                 {productName:"laptop",price:70000},
+               {productName:"speakers",price:24000},
+              {productName:"washingmachine",price:26000},
+              ]
+              var thing="";
+              for(var i=0;i<things.length;i++){
+              thing+=(`${i+1}:${things[i].productName}   ${`$`+things[i].price}\n\n`);
+              }
+              alert(thing);
+              for(let i=0;i<=things.length;i++){
+              var items=prompt("enter your options");
+              if(items=="end"){
+              break;
+              }
+              cart.push(things[items-1]);
+              total=total+parseInt(cart[i].price);
+             // {things[items-1].productName} $ {things[items-1].price}\\
+              }
+                var choosenitems="";
+              for(var i=0;i<cart.length;i++){
+              choosenitems += (`${i+1}:${cart[i].productName} -  ${cart[i].price}\n\n`);
+              }
+              alert("your items\n"+choosenitems);
+              alert("total spending:"+total);
+
+               if(total>=99999 && cart.length>=5 )
+                {
+                  alert(`you got 20% discount`);
+                   var discount=(total)*20/100;
+                   
+                   alert( `your bill :`+ (total-discount));
+                 }
+                   else if(total>=99999 && productsCost.length<5 )
+                   {
+                   alert (`you got 10% discount`);
+                     var discount=(total)*10/100;
+                      alert( `your bill :`+ (total-discount));
+                   }
+                   
+                  else 
+                  {
+                  alert  (`no discount`);
+                     
+                      alert( `your bill : `+ total);
+                   }
+                    
+
+
+
+</script>
+</body>
+</html>
+
+
+
+
+
+
+

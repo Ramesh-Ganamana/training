@@ -1,0 +1,302 @@
+
+<style>
+*{
+padding:0;
+margin:0;
+box-sizing:0;
+}
+body {
+ background-color:powderblue;
+ }
+ button{
+ background-color:green;
+ float:center;
+ height:100px;
+ width:400px;
+ padding:10px;
+ text-align:center;
+ margin-top:25%;
+ float:right;
+ margin-right:25%;
+ color:white;
+ font-size:40px;
+ border:none;
+ }
+.login
+{
+
+ float:center;
+ height:100px;
+ width:200px;
+ padding:10px;
+ text-align:center;
+ margin-top:20%;
+ float:right;
+ margin-right:25%;
+ color:white;
+ font-size:40px;
+ border:none;
+
+
+
+ }
+
+
+.log{
+display:none;
+margin-top:300px;
+}
+}
+h1
+{
+letter-spacing: 4px;
+font-family: Tahoma, sans-serif;
+text-align:center;
+color: black;
+font-weight: bold;
+padding:8%;
+}
+
+.pass
+{
+background-color:#f0f0f5;
+text-align:center;
+padding-top: 1%;
+width:73%;
+height:10%;
+font-size:12px;
+margin-top:5%;
+border:none;
+}
+
+
+
+.account
+{
+background-color:#f0f0f5;
+font-size:12px;
+float: center;
+padding-top: 2%;
+width:73%;
+height:10%;
+margin-top:-4%;
+border:none;
+}
+
+
+
+form
+{
+border:none;
+height:140%;
+width:44%;
+background-color:white;
+align-content:center;
+margin-left:28%;
+border-radius:4%;
+margin-top:-43px;
+border:black;
+}
+
+
+input[type=button]
+{
+margin-top:-5%;
+width:73%;
+height:10%;
+background-color:#b30059;
+font-size:18px;
+border:none;
+text-align:center;
+color:white;
+}
+
+
+
+input[type=checkbox]
+{
+margin-top :2%;
+margin-left :-47%;
+color:black;
+font-size:10px;
+font-weight:lighter;
+letter-spacing: 1px;
+}
+input {
+text-align:center;
+margin-left:100px
+}
+
+
+
+h5{
+font-weight:lighter 1%;
+margin-top :-7.5%;
+margin-right :-39%;
+font-size:18px;
+color:black;
+font-size:17px;
+font-weight:bold -45%;
+letter-spacing: 1px;
+}
+
+
+
+
+body 
+{
+background-color:#042387;
+color:white;
+     margin:3%;
+}
+.headoptions
+{
+color:#0b91de;
+margin:10px;
+float:left;
+width:10%;
+}
+.getcash
+{
+margin-top:3%;
+float:right;
+width:400px;
+height:80px;
+margin-right:500px;
+
+}
+button
+{
+background-color:#76b5c5;
+width:350px;
+height:90px;
+color:blue;
+font-weight:bold;
+font-size:22px;
+border:none;
+color:white;
+}
+h3{
+color:white;
+}
+.deposit
+{
+margin-top:-2.4%;
+float:right;
+width:200px;
+height:80px;
+margin-right:150px;
+}
+.total
+{
+background-color:#f50561;
+width:63%;
+text-align:center;
+margin-right:40px;
+float:right;
+margin-top:400px;
+height:4%;
+}
+
+.h5
+{
+margin-top:-10%;
+float:right;
+margin-right:100px;
+}
+button:hover
+{
+background:#3250a8;
+}
+.sec{
+  display:none;
+}
+
+
+
+ .background{
+height:500px;
+width:500px;
+background-color:blue;
+float:center;
+margin-top:10%;
+margin-left:20%;
+}
+
+.input {
+background-color:white;
+float:center;
+ height:10%;
+ width:50%;
+ padding:10px;
+ text-align:center;
+ margin-top:10%;
+ float:right;
+ margin-right:10%;
+}
+button{
+background-color:red;
+ float:center;
+ height:100px;
+ width:400px;
+ padding:10px;
+ text-align:center;
+ margin-top:10%;
+ float:right;
+ margin-right:10%;
+ color:white;
+ font-size:40px;
+ border:none;
+}
+h1{
+color:white;
+}
+.third{
+display:none;
+}
+
+
+ .backgr{
+height:500px;
+width:500px;
+background-color:blue;
+float:center;
+margin-top:10%;
+margin-left:20%;
+}
+
+.input {
+background-color:white;
+float:center;
+ height:10%;
+ width:50%;
+ padding:10px;
+ text-align:center;
+ margin-top:10%;
+ float:right;
+ margin-right:10%;
+}
+button{
+background-color:red;
+ float:center;
+ height:100px;
+ width:400px;
+ padding:10px;
+ text-align:center;
+ margin-top:10%;
+ float:right;
+ margin-right:10%;
+ color:white;
+ font-size:40px;
+ border:none;
+}
+h2{
+color:white;
+}
+.fourth{
+display:none;
+}
+</style>
+
+
+

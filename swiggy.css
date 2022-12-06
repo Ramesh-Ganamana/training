@@ -1,0 +1,424 @@
+
+  
+  *{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
+
+body
+    {
+  
+  background-image:linear-gradient( to left,#f38e82, #fbdb89);
+    font-family:Nunito Sans;
+	
+    }
+   .total
+   {
+
+  margin:auto;
+  background:white;
+   width:1000px;
+   margin-top:50px;
+   }
+   
+   /*.header
+   {
+   width:1000px;
+  padding:20px;
+  text-align:center;
+  background:#edede8;
+  
+   }
+   
+   .im
+   {
+  padding:10px;
+   margin-top:-0.6%;
+   width:140px;
+   float:left;
+   }
+   .inp
+   {
+ 
+   padding:10px;
+   width:220px;
+   border-radius:20px;
+   background:white;
+   border:none;
+   margin-top:-2%;
+   height:40px;
+   
+   }
+   .btn
+   {
+   width:120px;
+   padding:10px;
+   border-radius:20px;
+   background:#f1850b;
+   border:none;
+   height:40px;
+   position:relative;
+   left:-4%;
+   color:white;
+   }
+   .rec
+   {
+ text-transform:uppercase;
+ color:black;
+ float:right;
+ margin-right:2%;
+ margin-top:1%;
+
+ }
+ .book{
+    font-size:19px;
+     color:black;
+      float:right;
+      margin-right:1%;
+       margin-top:1%;
+   }*/
+  .head
+  {
+	 width:1000px;
+      padding:20px;
+     text-align:center;
+      background:#edede8;  
+  }
+ .head_im
+ {
+	 width:140px; 
+	 float:left;
+	 
+ }
+ .input
+ {
+	
+	  width:220px;
+	  height:40px;
+     border-radius:20px;
+     background:white;
+     border:none;
+	 
+ }
+ button
+ {
+   width:120px;
+   padding:10px;
+   border-radius:20px;
+   background:linear-gradient(to bottom right, #ffffcc 0%, #ff6600 100%);
+   border:none;
+   height:40px; 
+   position:relative;
+   left:-5%;
+   color:white; 
+   top:5px;
+	 
+ }
+ .button
+ {
+	position:relative;
+    bottom:5px;	
+ }
+ 
+ .add_boo
+ {
+	float:right; 
+	position:relative;
+	top:10px;
+ }
+ .add_boo ul li
+ {
+	display:inline-block; 
+ }
+
+ .sub_container
+   {
+	 width:100%;
+      background:white;
+     display:flex;	  
+   }
+    .sidebar
+   {
+   width:35%;
+   background:white;
+   float:left;
+   
+  
+   }
+   .rightbar
+   {
+    width:65%;
+ background:white;
+    float:right;
+   }
+   .image:hover
+   {
+   background:#d5dbdb;
+   }
+  
+  
+   .image {
+   float:left;
+   margin-left:6%;
+   margin-top:3%;
+   white-space:nowrap;  
+ overflow:hidden;	
+ text-overflow:ellipsis;
+
+  
+   }
+   .image img{
+       border-radius:50%;
+       width:40px;
+	   height:40px;
+       }
+   .image_content
+   {
+  
+  padding:6px;
+   float:right;
+   font-size:20px;
+   margin-top:-2%;
+    width: 280px;
+  
+   
+   }
+   .title
+   {
+	
+   font-size:15px;
+   color:#d44a0b;
+  margin-top:1%;
+   
+   }
+   .publisher{
+	   
+    font-size:10px;
+    color:black;
+    margin-top:1%;
+	text-transform:uppercase;
+   }
+    .img
+   {
+   width:650px;
+   opacity:0.5;
+   
+   }
+   .rotate
+   {
+	 transform:rotate(-6deg);  
+   }
+   .rotate h2
+   {
+	 background:linear-gradient(to bottom right, #ffffcc 0%, #ff6600 100%);
+     transform:skew(-9deg);
+     width:42%;
+     padding:10px;
+     color:white;
+     font-size:22px;
+     text-align:center;
+     margin-left:200px ; 
+	 margin-top:-10%;
+   }
+   .rotate h3
+   {
+     background:linear-gradient(to bottom right, #ffffcc 0%, #ff6600 100%);
+     transform:skew(-10deg);
+     width:27%;
+     padding:6px;
+     color:white;
+     font-size:24px;
+     text-align:center;
+     margin-left:250px;
+	 margin-top:-1%;
+      
+   }
+   .underimage
+   {
+   width:100%;
+   text-align:center;
+   padding:30px;
+   background:white;
+   
+   }
+   .underimage ul li 
+   {
+	 display:inline-block;   
+   }
+   .boomark_image
+   {
+	float:right;  
+  
+	margin-top:-4%;
+	margin-right:5%;	
+   }
+   .bookmark_img
+   {
+	 width:25px;  
+   }
+   #icons
+   {
+	 position:relative;
+     top:5px;
+     left:-100px;	 
+   }
+   .minute{
+	   position:relative; 
+	    left:-100px;	
+   }
+   .servings{
+	    position:relative; 
+	    left:-100px;	
+	   
+   }
+  /* .mint
+   {
+   float:left;
+   margin-top:-2%;
+   }
+   .ser
+   {
+   float:left;
+   margin-left:5%;
+   margin-top:-2%;
+   
+   }*/
+   .unorderedlist
+   {
+   background:white;
+   width:100%;
+   color:red;
+   padding:20px;
+  
+   
+   }
+   ul
+   {
+   list-style-type:none;
+   color:black;
+   text-align:center;
+   }
+   .first-list
+   {
+   float:left;
+   margin-left:20%;
+   line-height:35px;
+   }
+   .secondlist
+   {
+   float:right;
+   margin-right:20%; 
+    line-height:35px;
+   }
+   .footer
+   {
+   width:100%;
+   display:flex;
+ 
+   
+   }
+   .footer-sidebar
+   {
+   width:35%;
+   background:white;
+   float:left;
+   
+   }
+   .footer-rightbar
+   {
+    width:65%;
+   background:#f2f2f2;
+   float:right;
+   }
+   .cook
+   {
+   color:red;
+   padding:20px;
+   }
+   h6
+   {
+   color:black;
+   text-align:center;
+   }
+   .but
+   {
+   width:120px;
+   padding:10px;
+   border-radius:20px;
+   background:linear-gradient(to bottom right, #ffffcc 0%, #ff6600 100%);
+   border:none;
+  position:relative;
+  top:-5px;
+   color:white;
+   }
+   .button1
+   {
+    width:100px;
+   padding:10px;
+   border-radius:20px;
+   background:silver;
+   border:none;
+   float:left;
+   color:red;
+   margin-left:10%;
+  
+   }
+   .button2
+   {
+   width:100px;
+   padding:10px;
+   border-radius:20px;
+   background:silver;
+   border:none;
+   float:right;
+   color:red;
+     margin-right:2%;
+   
+   }
+   .last-text
+   {
+    margin-top:20%;
+   }
+   .plus
+   {
+   width:20px;
+   }
+   .minus
+   {
+     width:20px;
+  }
+  .tick
+  {
+  height:15px;
+  }
+  
+     svg{
+	  height:20px;
+	  width:20px;
+	  fill:red;
+	  
+  }
+  /*.bookmark_img
+  {
+	float:right;
+    width:25px;	  
+	margin-top:-5%;
+	margin-right:5%;
+  }*/
+  #Layer_1{
+	 fill:white; 
+	 margin-top:%;
+	 width:30px;
+  }
+  #arrow
+  {
+	position:relative;
+    top:5px;	
+  }
+  #right
+  {
+	position:absolute;
+ top:12px;
+ fill:white; 
+  }

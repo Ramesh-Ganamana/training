@@ -3,16 +3,16 @@ var btn= document.getElementById("btnn");
 var inp =document.getElementsByClassName(".input").value;
 var img=document.querySelectorAll(".im");	
 var publish =document.querySelectorAll(".publisher");
-var titl =document.querySelectorAll(".title"); 
+var title =document.querySelectorAll(".title"); 
 var block=document.querySelector("image");
 var selected=10;	 
  var pagenumber=0;
 	 function sidebar(list)
 	 {	 
-		  for(let i=0;i<selected;i++)
+		  for(let i=0;i<10;i++)
 		 {
 	       
-              titl[i].innerHTML=list.recipes[i].title;
+              title[i].innerHTML=list.recipes[i].title;
   		  
 			    publish[i].innerHTML=list.recipes[i].publisher;
 				 			
@@ -27,15 +27,25 @@ var selected=10;
 		 document.querySelector(".button2").addEventListener("click",next);
 		  function next()
 		  {
-			 
-               for( let i=1; i<selected;i++){
-				   titl[i-1].innerHTML=list.recipes[i*selected].title;
-				   publish[i-1].innerHTML=list.recipes[i*selected].publisher;
-                    img[i-1].src=list.recipes[i*selected].image_url;				   
+			 alert("hi");
+               for( let i=10; i<20;i++){
+				   title[i-10].innerHTML=list.recipes[i].title;
+				   publish[i-10].innerHTML=list.recipes[i].publisher;
+                    img[i-10].src=list.recipes[i].image_url;				   
 					   
 					   }	  
 		  }
-		 
+		 /* document.querySelector(".button2").addEventListener("click",alter);
+		  function alter()
+		  
+		  {
+			  alert("hlo");
+			  for(let i=20;i<27;i++){
+				   title[i-20].innerHTML=list.recipes[i].title;
+				   publish[i-20].innerHTML=list.recipes[i].publisher;
+                    img[i-20].src=list.recipes[i].image_url;				
+			  }
+		  }*/
 			 
 			 
 		 

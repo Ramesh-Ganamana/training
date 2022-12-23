@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+    <head>
+       <link rel="stylesheet" href="sample.css">
+        <title>
+           billing list
+        </title>
+    </head>
+    <body>
+    <div class="header">
+    <button class="order" onclick="order()">orders</button>
+    <button class="current_list">current</button>
+    </div>
+    <div class="container">
+    <div class="side_bar">
+     <ul class="tableList">
+       
+
+     </ul>   
+
+    </div>
+    <div class="right_bar">
+     <p class="lef"> table5 |Max</p>
+     <p class="cle">clear</p>
+     <input type="text"class="inputting" placeholder="enter your name">
+    <table >
+        <thead>
+            <th>item</th>
+            <th>quantity</th>
+            <th>price</th>
+        </thead>
+        <tbody class="insert">
+
+        </tbody>
+    </table>
+    <div class="r">
+        <table>
+
+       <td>discount &nbsp &nbsp &nbsp &nbsp<input type="numeric" class="in" value="4%"></td>
+       
+       <td> <input type="numeric" class="i"></td>
+    </table>
+    <table>
+        <td> tax  &nbsp &nbsp &nbsp &nbsp<input type="numeric" class="tax" value=3%></td>
+        <td> <input type="numeric" class="inp"></td>
+        
+    </table>
+    </div>
+    <div>
+
+    </div>
+    <div class="foot">
+        <input type="button" class="submit_order" value="submit_order" >
+        <input type="button" class="coniform_order" value="amount">
+    </div>
+     </div>
+     </div> 
+     <div class="table_manage">
+     <table class="tab">
+        <thead>
+            <th>customerName</th>
+            <th>total_cost</th>
+            <th>tax</th>
+            <tbody class="orderList">
+
+            </tbody>
+        </thead>
+     </table> 
+     <table class ="view_table">
+        <thead>
+            <th>S.No</th>
+            <th>customerName</th>
+           
+            <th>GST</th>
+            <th>Tax</th>
+            <th>total</th>
+        </thead>
+        <tbody class="view_details">
+
+        </tbody>
+     </table>
+    </div>
+    </div>
+    
+    </body>
+    
+    <script src="sample.js">
+
+    </script>
+</html>

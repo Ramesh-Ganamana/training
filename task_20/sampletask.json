@@ -1,0 +1,546 @@
+{
+  "items": [
+    {
+      "name": "Idle",
+      "price": 20,
+      "id": 1
+    },
+    {
+      "name": "Chapathi",
+      "price": 30,
+      "id": 2
+    },
+    {
+      "name": "Dosa",
+      "price": 30,
+      "id": 3
+    },
+    {
+      "name": "Wada",
+      "price": 25,
+      "id": 4
+    },
+    {
+      "name": "Puri",
+      "price": 30,
+      "id": 5
+    },
+    {
+      "name": "Veg Fried Rice",
+      "price": 80,
+      "id": 6
+    },
+    {
+      "name": "Non-veg Fried Rice",
+      "price": 110,
+      "id": 7
+    },
+    {
+      "name": "Veg Biryani",
+      "price": 90,
+      "id": 8
+    },
+    {
+      "name": "Non Veg Biryani",
+      "price": 150,
+      "id": 9
+    },
+    {
+      "name": "Meals",
+      "price": 70,
+      "id": 10
+    }
+  ],
+  "new": [
+    {
+      " name": "Idle",
+      "price": 20,
+      "orders": [
+        {
+          "name": "Idle",
+          "price": 20,
+          "quantity": 1
+        },
+        {
+          "name": "Puri",
+          "price": 30,
+          "quantity": 1
+        },
+        {
+          "name": "Dosa",
+          "price": 30,
+          "quantity": 1
+        },
+        {
+          "name": "Non Veg Biryani",
+          "price": 150,
+          "quantity": 1
+        },
+        {
+          "name": "Veg Biryani",
+          "price": 90,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "orders": [
+        {
+          "name": "Idle",
+          "price": 20,
+          "quantity": 1
+        },
+        {
+          "name": "Dosa",
+          "price": 30,
+          "quantity": 1
+        },
+        {
+          "name": "Wada",
+          "price": 25,
+          "quantity": 1
+        },
+        {
+          "name": "Puri",
+          "price": 30,
+          "quantity": 1
+        },
+        {
+          "name": "Veg Fried Rice",
+          "price": 80,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "orders": [
+        {
+          "name": "Idle",
+          "price": 20,
+          "quantity": 1
+        },
+        {
+          "name": "Dosa",
+          "price": 30,
+          "quantity": 1
+        },
+        {
+          "name": "Wada",
+          "price": 25,
+          "quantity": 1
+        },
+        {
+          "name": "Puri",
+          "price": 30,
+          "quantity": 1
+        },
+        {
+          "name": "Veg Fried Rice",
+          "price": 80,
+          "quantity": 1
+        },
+        {
+          "name": "Idle",
+          "price": 20,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "orders": [
+        {
+          "name": "Idle",
+          "price": 20,
+          "quantity": 1
+        },
+        {
+          "name": "Chapathi",
+          "price": 30,
+          "quantity": 1
+        },
+        {
+          "name": "Dosa",
+          "price": 30,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "orders": [
+        {
+          "name": "Idle",
+          "price": 20,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "orders": [
+        {
+          "name": "Idle",
+          "price": 20,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "orders": [
+        {
+          "name": "Idle",
+          "price": 20,
+          "quantity": 1
+        },
+        {
+          "name": "Chapathi",
+          "price": 30,
+          "quantity": 1
+        },
+        {
+          "name": "Dosa",
+          "price": 30,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "orders": [
+        {
+          "name": "Idle",
+          "price": 20,
+          "quantity": 1
+        },
+        {
+          "name": "Chapathi",
+          "price": 30,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "orders": [
+        {
+          "name": "Idle",
+          "price": 20,
+          "quantity": 1
+        },
+        {
+          "name": "Chapathi",
+          "price": 30,
+          "quantity": 1
+        },
+        {
+          "name": "Dosa",
+          "price": 30,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "orders": [
+        {
+          "name": "Idle",
+          "price": 20,
+          "quantity": 1
+        },
+        {
+          "name": "Puri",
+          "price": 30,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "orders": [
+        {
+          "name": "Idle",
+          "price": 20,
+          "quantity": 1
+        },
+        {
+          "name": "Chapathi",
+          "price": 30,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "orders": [
+        {
+          "name": "Idle",
+          "price": 20,
+          "quantity": 1
+        },
+        {
+          "name": "Chapathi",
+          "price": 30,
+          "quantity": 1
+        },
+        {
+          "name": "Dosa",
+          "price": 30,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "username": "",
+      "GrandTotal": "amount",
+      "id": 30
+    },
+    {
+      "username": " ramesh ganamana",
+      "GrandTotal": "79.2",
+      "id": 37
+    },
+    {
+      "username": " sai kumar",
+      "GrandTotal": "346.5",
+      "Gst": "10.5",
+      "tax": "14",
+      "orders": [
+        {
+          "name": "Non-veg Fried Rice",
+          "price": 110,
+          "quantity": 1
+        },
+        {
+          "name": "Veg Biryani",
+          "price": 90,
+          "quantity": 1
+        },
+        {
+          "name": "Non Veg Biryani",
+          "price": 150,
+          "quantity": 1
+        }
+      ],
+      "id": 38
+    },
+    {
+      "username": "",
+      "GrandTotal": "292.05",
+      "Gst": "8.850000000000001",
+      "tax": "11.8",
+      "orders": [
+        {
+          "name": "Wada",
+          "price": 25,
+          "quantity": 1
+        },
+        {
+          "name": "Puri",
+          "price": 30,
+          "quantity": 1
+        },
+        {
+          "name": "Veg Biryani",
+          "price": 90,
+          "quantity": 1
+        },
+        {
+          "name": "Non Veg Biryani",
+          "price": 150,
+          "quantity": 1
+        }
+      ],
+      "id": 39
+    },
+    {
+      "username": " ram",
+      "GrandTotal": "371.25",
+      "Gst": "11.25",
+      "tax": "15",
+      "orders": [
+        {
+          "name": "Wada",
+          "price": 25,
+          "quantity": 1
+        },
+        {
+          "name": "Non-veg Fried Rice",
+          "price": 110,
+          "quantity": 1
+        },
+        {
+          "name": "Veg Biryani",
+          "price": 90,
+          "quantity": 1
+        },
+        {
+          "name": "Non Veg Biryani",
+          "price": 150,
+          "quantity": 1
+        }
+      ],
+      "id": 40
+    },
+    {
+      "username": " ram  ganamana",
+      "GrandTotal": "346.5",
+      "Gst": "10.5",
+      "tax": "14",
+      "orders": [
+        {
+          "name": "Non-veg Fried Rice",
+          "price": 110,
+          "quantity": 1
+        },
+        {
+          "name": "Veg Biryani",
+          "price": 90,
+          "quantity": 1
+        },
+        {
+          "name": "Non Veg Biryani",
+          "price": 150,
+          "quantity": 1
+        }
+      ],
+      "id": 41
+    },
+    {
+      "username": " ram  ganadamani",
+      "GrandTotal": "346.5",
+      "Gst": "10.5",
+      "tax": "14",
+      "orders": [
+        {
+          "name": "Non-veg Fried Rice",
+          "price": 110,
+          "quantity": 1
+        },
+        {
+          "name": "Veg Biryani",
+          "price": 90,
+          "quantity": 1
+        },
+        {
+          "name": "Non Veg Biryani",
+          "price": 150,
+          "quantity": 1
+        }
+      ],
+      "id": 42
+    },
+    {
+      "username": " ram",
+      "GrandTotal": "346.5",
+      "Gst": "10.5",
+      "tax": "14",
+      "orders": [
+        {
+          "name": "Non-veg Fried Rice",
+          "price": 110,
+          "quantity": 1
+        },
+        {
+          "name": "Veg Biryani",
+          "price": 90,
+          "quantity": 1
+        },
+        {
+          "name": "Non Veg Biryani",
+          "price": 150,
+          "quantity": 1
+        }
+      ],
+      "id": 43
+    },
+    {
+      "username": "",
+      "GrandTotal": "158.4",
+      "Gst": "4.800000000000001",
+      "tax": "6.4",
+      "orders": [
+        {
+          "name": "Idle",
+          "price": 20,
+          "quantity": 1
+        },
+        {
+          "name": "Chapathi",
+          "price": 30,
+          "quantity": 1
+        },
+        {
+          "name": "Puri",
+          "price": 30,
+          "quantity": 1
+        },
+        {
+          "name": "Veg Fried Rice",
+          "price": 80,
+          "quantity": 1
+        }
+      ],
+      "id": 44
+    },
+    {
+      "username": "",
+      "GrandTotal": "267.3",
+      "Gst": "8.100000000000001",
+      "tax": "10.8",
+      "orders": [
+        {
+          "name": "Puri",
+          "price": 30,
+          "quantity": 1
+        },
+        {
+          "name": "Veg Biryani",
+          "price": 90,
+          "quantity": 1
+        },
+        {
+          "name": "Non Veg Biryani",
+          "price": 150,
+          "quantity": 1
+        }
+      ],
+      "id": 45
+    },
+    {
+      "username": " bhargav",
+      "GrandTotal": "54.449999999999996",
+      "Gst": "1.6500000000000001",
+      "tax": "2.2",
+      "orders": [
+        {
+          "name": "Wada",
+          "price": 25,
+          "quantity": 1
+        },
+        {
+          "name": "Puri",
+          "price": 30,
+          "quantity": 1
+        }
+      ],
+      "id": 46
+    },
+    {
+      "username": "ramesh",
+      "GrandTotal": "227.70000000000002",
+      "Gst": "6.8999999999999995",
+      "tax": "9.2",
+      "orders": [
+        {
+          "name": "Idle",
+          "price": 20,
+          "quantity": 1
+        },
+        {
+          "name": "Chapathi",
+          "price": 30,
+          "quantity": 1
+        },
+        {
+          "name": "Puri",
+          "price": 30,
+          "quantity": "6"
+        }
+      ],
+      "id": 47
+    }
+  ]
+}

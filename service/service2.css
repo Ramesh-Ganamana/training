@@ -1,0 +1,35 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+
+
+body{
+    background: powderblue;
+    }
+    table,th,tr{
+    border:1px solid black;
+    margin-top:50px;
+    
+    }
+    .container{
+        display:flex;
+
+    }
+    .left_bar{
+        width:30%;
+        background:yellowgreen;
+    }
+    .right_bar{
+        width:70%;
+        background:rgb(47, 172, 255);
+
+    }
+    ul li{
+        list-style-type:none;
+        margin-left: 15%;
+        line-height: 50px;
+        font-weight: bold;
+    }

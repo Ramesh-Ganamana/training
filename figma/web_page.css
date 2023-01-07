@@ -1,0 +1,43 @@
+.header{
+    background-color:#FFF7F4;;
+}
+h6{
+    color:#7B7B7B;;
+}
+.line-height{
+    line-height: 55px;
+}
+.number{
+    float:right;
+}
+.back{
+background-color: #FFF7F4;    
+}
+.btn-color{
+    background-color: #ff5300;
+
+
+}
+.cap{
+    color: #ff5300;
+    font-weight: bold;
+    margin-right: 16px;
+}
+.ment{
+color:rgb(172, 170, 170);
+
+}
+.back_element{
+    width:1100px;
+    Height:180px;
+    background-color: #ff5300;
+    border-radius: 10px;
+}
+.exp{
+color:white;
+}
+    
+    
+
+
+

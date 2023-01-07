@@ -1,0 +1,139 @@
+{
+  "cms_data": [
+    {
+      "id": 1,
+      "course": "Ux Design",
+      "sub": "mobile app website",
+      "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+      "image_url": "/home/feuji/Desktop/cms-task/ux_interface.png",
+      "number_url": "/home/feuji/Desktop/cms-task/01.png",
+      "status": "Active"
+    },
+    {
+      "id": 2,
+      "course": "Game Design",
+      "sub": "mobile app website",
+      "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+      "image_url": "/home/feuji/Desktop/cms-task/gaming.png",
+      "number_url": "/home/feuji/Desktop/cms-task/02.png",
+      "status": " InActive"
+    },
+    {
+      "id": 3,
+      "course": "Graphic Design",
+      "sub": "mobile app website",
+      "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+      "image_url": "/home/feuji/Desktop/cms-task/design.png",
+      "number_url": "/home/feuji/Desktop/cms-task/03.png",
+      "status": "Active"
+    },
+    {
+      "id": 4,
+      "course": "web Design",
+      "sub": "mobile app website",
+      "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+      "image_url": "/home/feuji/Desktop/cms-task/web-design.png",
+      "number_url": "/home/feuji/Desktop/cms-task/04.png",
+      "status": "InActive"
+    },
+    {
+      "id": 5,
+      "course": "App Design",
+      "sub": "mobile app website",
+      "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+      "image_url": "/home/feuji/Desktop/cms-task/mobile-development.png",
+      "number_url": "/home/feuji/Desktop/cms-task/05.png",
+      "status": "Active"
+    },
+    {
+      "id": 6,
+      "course": "Digital Marketring",
+      "sub": "mobile app website",
+      "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+      "image_url": "/home/feuji/Desktop/cms-task/digital-marketing.png",
+      "number_url": "/home/feuji/Desktop/cms-task/06.png",
+      "status": "Active"
+    }
+  ],
+
+  "testi-monial":[
+    {
+      "id":1,
+      "im_url":"/home/feuji/Desktop/bootstrap/dist/Component1.png",
+      "content":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+      "img2_url":"/home/feuji/Desktop/bootstrap/dist/ClientProfile.png",
+      "img3_url":"/home/feuji/Desktop/bootstrap/dist/double-quotes.png"
+     
+    },
+    {
+      "id":2,
+      "im_url":"/home/feuji/Desktop/bootstrap/dist/Component1.png",
+      "content":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+      "img2_url":"/home/feuji/Desktop/bootstrap/dist/Client.png",
+      "img3_url":"/home/feuji/Desktop/bootstrap/dist/double-quotes.png"
+    },
+    {
+      "id":3,
+      "im_url":"/home/feuji/Desktop/bootstrap/dist/Component1.png",
+      "content":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+      "img2_url":"/home/feuji/Desktop/bootstrap/dist/clientpro.png",
+      "img3_url":"/home/feuji/Desktop/bootstrap/dist/double-quotes.png"
+    }
+  ],
+  "photos":[
+    {
+      "id":1,
+      "image":"/home/feuji/Desktop/bootstrap/dist/Image1.png"
+    },
+    {
+      "id":2,
+      "image":"/home/feuji/Desktop/bootstrap/dist/Image2.png"
+    },
+    {
+      "id":3,
+      "image":"/home/feuji/Desktop/bootstrap/dist/Image3.png"
+    },
+    {
+      "id":4,
+      "image":"/home/feuji/Desktop/bootstrap/dist/Image4.png"
+    },
+    {
+      "id":5,
+      "image":"/home/feuji/Desktop/bootstrap/dist/Image5.png"
+    },
+    {
+      "id":6,
+      "image":"/home/feuji/Desktop/bootstrap/dist/Image6.png"
+    },
+    {
+      "id":7,
+      "image":"/home/feuji/Desktop/bootstrap/dist/Image7.png"
+    },{
+      "id":8,
+      "image":"/home/feuji/Desktop/bootstrap/dist/Image8.png"
+    },{
+      "id":9,
+      "image":"/home/feuji/Desktop/bootstrap/dist/Image9.png"
+    }
+  ],
+  "blog":[
+    {
+      "id":1,
+      "img_url":"/home/feuji/Desktop/bootstrap/dist/Image_.png",
+      "content":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "sub_content":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+    },
+    {
+      "id":2,
+      "img_url":"/home/feuji/Desktop/bootstrap/dist/Image_12.png",
+      "content":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "sub_content":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+    },
+    {
+      "id":3,
+      "img_url":"/home/feuji/Desktop/bootstrap/dist/Image_13.png",
+      "content":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "sub_content":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+    }
+  ]
+}

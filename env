@@ -1,0 +1,9 @@
+compass_URL=https://psavcustomersqa.crm.dynamics.com/
+navigator_URL=https://navigator.training.psav.com/#!/
+compass_username=s-tst-navi-CRM@psav.com
+compass_password=Winter23$
+navigator_username=s-tst-navi-CRM@psav.com
+navigator_password=Winter23$
+small_wait=10000
+medium_wait=30000
+large_wait=60000
